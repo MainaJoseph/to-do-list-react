@@ -1,4 +1,4 @@
-# TO DO LIST APP
+# TO DO LIST APP 🙌
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,3 +16,7 @@ then
 
 Enjoy
 
+
+Visit Site 👇
+
+# https://auto-do.netlify.app/
