@@ -87,7 +87,7 @@ function TodoList() {
   return (
     <>
       <h1>What's the Plan for Today?</h1>
-      <span style={{color: '#063de2' font-weight: 'bold'}} className="txt-rotate" dataPeriod="1000" data-rotate='[ "Create Your Tasks now", "Easy", "utomated" ]'><span className="wrap">{text}</span></span>
+      <span style={{color: '#063de2'}} className="txt-rotate" dataPeriod="1000" data-rotate='[ "Create Your Tasks now", "Easy", "utomated" ]'><span className="wrap">{text}</span></span>
       <TodoForm onSubmit={addTodo} />
       <Todo
         todos={todos}
