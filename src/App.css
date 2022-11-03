@@ -14,7 +14,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,92,1) 35%, rgba
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 520px;
+  width: 450px;
   min-height: 600px;
   background: #161a2b;
   text-align: center;
@@ -142,3 +142,8 @@ h1 {
 .edit-icon {
   color: #fff;
 }
+
+.txt-rotate > .wrap {
+  border-right: 0.08em solid #666;
+}
+
